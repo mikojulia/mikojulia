@@ -8,6 +8,11 @@
 - 👀 interested in web and mobile apps
 - also 🤍🏊🏼‍♀️🏇🏼🥊
 
+### Projects 🛠️ I'm currently working on
+- university team project (desktop app)
+- my portfolio website
+- BudgetPlan (mobile app)
+
 ### I code with...
 
 <p align="center">
