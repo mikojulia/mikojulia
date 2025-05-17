@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Julia!</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Future Frontend Developer</h3>
 
-
+### About me
+- 🎓 second-year IT student on the University of Lodz
+- 📚 currently learning vue and react
+- 🔎 looking for an internship
+- 👀 interested in web and mobile apps
+- also 🤍🏊🏼‍♀️🏇🏼🥊
 
 ### I code with...
 
@@ -12,12 +17,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> -->
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> -->
 </p>
 
-### You can find me on:
+### You can also find me on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliamiko/" target="_blank">
