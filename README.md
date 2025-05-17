@@ -11,7 +11,7 @@
 ### Projects 🛠️ I'm currently working on
 - university team project (desktop app)
 - my portfolio website
-- BudgetPlan (mobile app)
+- BeautyPlan (mobile app)
 
 ### I code with...
 
